@@ -1,0 +1,237 @@
+join 3 1 2 2 1 1 
+department 2 2 
+click 2 1 
+health 2 2 
+hall 2 1 
+pdp 2 1 
+design 3 4 1 4 
+systems 3 1 1 1 
+technology 2 2 
+auracle 2 1 
+wellness 2 1 
+facebook 2 1 
+pronounce 2 2 
+palmer 3 1 1 1 
+testing 3 1 1 1 
+thanks 2 1 
+scholar 2 2 
+papers 2 1 
+coding 3 2 1 2 
+this 3 3 1 3 
+like 2 1 
+group 2 3 
+usa 2 1 
+few 3 1 1 1 
+fellow 2 1 
+reading 3 1 1 1 
+maintainable 3 1 1 1 
+professors 3 1 1 1 
+postdoc 2 1 
+upon 3 1 1 1 
+voice 2 1 
+management 3 1 1 1 
+rent 2 1 
+david 3 1 2 3 1 1 
+objectives 3 1 1 1 
+wordle 2 2 
+project 3 1 2 2 1 1 
+author 2 1 
+crh 2 1 
+director 2 1 
+engine 3 1 1 1 
+process 3 1 1 1 
+deeply 3 1 1 1 
+paper 2 1 
+since 2 1 
+style 3 1 1 1 
+photo 2 2 
+google 2 1 
+principles 3 1 1 1 
+labs 3 1 1 1 
+source 3 1 1 1 
+faculty 2 1 
+behavioral 2 1 
+current 2 1 
+ieee 2 2 
+kids 2 1 
+very 3 1 1 1 
+seeking 2 2 
+overview 3 2 1 2 
+will 3 2 1 2 
+zhou 3 1 1 1 
+cots 2 1 
+titles 2 1 
+amulet 2 1 
+phi 2 1 
+down 3 1 1 1 
+academy 2 1 
+test 3 1 1 1 
+feed 2 2 
+rss 2 2 
+after 3 1 1 1 
+designed 3 1 1 1 
+liaison 2 1 
+let 3 1 1 1 
+personal 2 1 
+investigator 2 3 
+core 2 1 
+months 2 1 
+research 2 1 
+own 3 1 1 1 
+technologies 2 1 
+programmer 2 1 
+early 2 1 
+campbell 3 1 1 1 
+pdf 2 1 
+the 3 4 2 7 1 4 
+short 2 1 
+sections 3 1 1 1 
+understandable 3 1 1 1 
+trustee 2 1 
+lastname 2 1 
+git 3 1 1 1 
+not 2 1 
+usenix 2 1 
+can 2 1 
+weeks 3 1 1 1 
+amp 3 1 1 1 
+debugging 3 1 1 1 
+professor 2 2 
+code 3 1 1 1 
+principal 2 3 
+member 2 5 
+computer 3 1 2 4 1 1 
+are 3 2 1 2 
+orcid 2 1 
+tools 3 1 1 1 
+for 3 2 2 3 1 2 
+kappa 2 1 
+acm 2 1 
+break 3 1 1 1 
+team 3 2 1 2 
+senior 2 1 
+science 3 1 2 3 1 1 
+finally 3 1 1 1 
+kilimanjaro 2 1 
+piazza 3 1 1 1 
+beta 2 1 
+video 2 2 
+documentation 3 1 1 1 
+policy 2 1 
+reliable 3 1 1 1 
+trustworthy 2 1 
+old 2 1 
+profile 2 1 
+vita 2 1 
+courses 2 1 
+with 3 2 2 1 1 2 
+fulbright 2 1 
+spring 3 2 1 2 
+hit 2 1 
+india 2 2 
+learn 3 3 1 3 
+travel 2 4 
+crossroads 2 1 
+kotz 3 1 2 5 1 1 
+wordpress 2 1 
+our 2 1 
+center 2 1 
+examples 3 1 1 1 
+large 3 2 1 2 
+emerging 2 1 
+program 3 1 1 1 
+students 3 1 1 1 
+nine 2 1 
+that 3 2 1 2 
+above 2 1 
+gitlab 3 1 1 1 
+good 3 1 1 1 
+build 3 3 1 3 
+year 2 1 
+comics 3 1 1 1 
+spent 2 1 
+analytics 2 1 
+smugmug 2 1 
+blog 2 3 
+schedule 3 1 1 1 
+dartmouth 3 1 2 5 1 1 
+version 3 1 1 1 
+canvas 3 1 1 1 
+interests 2 1 
+south 2 1 
+college 3 1 2 3 1 1 
+programming 3 2 1 2 
+affiliate 2 1 
+document 3 1 1 1 
+bio 2 1 
+application 3 1 1 1 
+web 2 1 
+contact 2 1 
+about 2 3 
+resources 3 1 1 1 
+education 2 1 
+data 2 1 
+coats 2 1 
+zoom 2 1 
+house 2 2 
+crash 3 1 1 1 
+course 3 4 1 4 
+choate 2 1 
+nbsp 2 1 
+containing 2 1 
+site 2 1 
+information 2 1 
+those 3 1 1 1 
+society 2 2 
+duke 2 1 
+use 3 1 1 1 
+visiting 2 1 
+and 3 7 2 12 1 7 
+tips 2 1 
+educators 3 1 1 1 
+first 3 1 1 1 
+how 3 1 2 1 1 1 
+indebted 3 1 1 1 
+hanover 2 1 
+champion 2 1 
+photography 2 1 
+professional 2 1 
+projects 2 1 
+sudikoff 2 1 
+laboratory 2 1 
+search 3 1 2 1 1 1 
+three 2 1 
+rosemary 2 1 
+see 2 1 
+pages 2 1 
+vcard 2 1 
+you 3 5 2 1 1 5 
+invention 2 1 
+campus 2 1 
+other 3 1 1 1 
+university 2 2 
+gnuplot 2 1 
+ists 2 1 
+international 2 1 
+software 3 3 1 3 
+edu 2 1 
+lectures 3 1 1 1 
+these 3 1 1 1 
+institute 2 1 
+development 3 1 1 1 
+carolina 2 1 
+unix 3 3 1 3 
+read 2 1 
+logistics 3 1 1 1 
+beach 2 1 
+committee 2 1 
+activities 2 2 
+all 2 1 
+was 2 1 
+your 3 1 1 1 
+based 3 1 1 1 
+balkcom 3 1 1 1 
+thaw 2 1 
+security 2 1 
+seatpack 2 1 
+outstanding 3 1 1 1 
